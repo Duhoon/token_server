@@ -1,5 +1,5 @@
 {
-  "name": "web3_practice",
+  "name": "token_server",
   "version": "1.0.0",
   "description": "small proejct applyed web3.js lib",
   "main": "app.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.2.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "web3": "^1.8.1"
